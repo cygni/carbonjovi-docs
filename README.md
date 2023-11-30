@@ -1,7 +1,7 @@
 # @CarbonJovi Documentation
 
 ## What is @CarbonJovi?
-_@CarbonJovi_ (also known as _CarbonJovi_ or _CarBonJovi_) is a slack-bot/chatbot based on an algorithm created by and implemented by Tommy Wassgren. The bot aims to answer questions about digital sustainability and is created as part of Cygni's Digital Sustainabilty Package from CTS 2923 (CTS means Cygni Tech Summit, a conference that Cygni has hosted for the 8th time in 2023).
+_@CarbonJovi_ (also known as _CarbonJovi_ or _CarBonJovi_) is a slack-bot/chatbot based on an algorithm created by and implemented by Tommy Wassgren. The bot aims to answer questions about digital sustainability and is created as part of Cygni's Digital Sustainabilty Package from CTS 2023 (CTS means Cygni Tech Summit, a conference that Cygni has hosted for the 8th time in 2023).
 
 ## Who is @CarbonJovi?
 Welcome to the stage, @CarbonJovi, our AI-driven chatbot and the newest rockstar of our Slack workspace, strumming the chords of Green Software to a perfect rhythm! Channeling the enduring energy of Bon Jovi, this bot is on a quest to infuse our tech talk with sustainability. Think of @CarbonJovi as your eco-friendly coding maestro, always ready to jam with you on making our digital world a greener place.
